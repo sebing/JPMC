@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Tools/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Tools/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Tools/apache-log4j-2.2-bin/log4j-1.2-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Tools/apache-log4j-2.2-bin/log4j-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Tools/apache-log4j-2.2-bin/log4j-core-2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

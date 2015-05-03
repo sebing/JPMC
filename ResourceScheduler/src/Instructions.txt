@@ -1,0 +1,13 @@
+Instructions:
+
+1)jpmc.sebin.resource.Resources
+	This class is the Main implementation which holds the Resource Scheduler logic
+
+2)jpmc.external
+	This package contains the external/third party resource apis
+3)jpmc.sebin.impl
+	This package has the basic implementation of the external apis
+4)jpmc.sebin.test
+	This package contains the Junit test cases
+	
+	
