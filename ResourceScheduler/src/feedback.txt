@@ -1,0 +1,9 @@
+Positives:
+·         Interfaces were implemented
+Negatives:
+·         Code didn’t compile until I fixed it.
+·         Prioritising doesn’t work
+·         No running commentary
+·         Project had missing dependencies
+·         Incomplete testing
+·         HashCode, equals contract broken. 
